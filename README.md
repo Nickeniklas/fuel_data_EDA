@@ -1,8 +1,8 @@
-# Finnish Gas Price Data Visualizations
+# Finnish Fuel Data Exploratory Data Analysis and Visualizations
 
 Jupyter Notebook
 
-Data: **FINSTAT**
+Data: **FINSTAT / Tilastokesus** Finland’s national statistical authority
 
 Visualization: **Seaborn**
 
