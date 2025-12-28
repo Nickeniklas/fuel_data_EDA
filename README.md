@@ -1,10 +1,9 @@
-# Finnish Fuel Data Exploratory Data Analysis and Visualizations
-
+# Finnish Fuel Prices: Exploratory Data Analysis
 Jupyter Notebook
 
 Data: **FINSTAT / Tilastokesus** Finland’s national statistical authority
 
-Visualization: **Seaborn**
+Visualization: **Seaborn, matplotlib**
 
 ## Setup
 
